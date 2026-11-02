@@ -23,7 +23,7 @@ Technologies Used:
 
 Live Demo:
 <br>
-Visit the website: [Sweet Crumbs Bakery] (https://sadhna-lohana.github.io/sweet-crumbs-bakery/)
+Visit the website: [Sweet Crumbs Bakery live link] (https://sweet-crumbs-bakery-site.netlify.app/)
 
 
 
